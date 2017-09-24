@@ -1,4 +1,5 @@
 {
   "name": "cordova-plugin-carrier",
+  "version": "1.0.0",
   "private": true
 }
